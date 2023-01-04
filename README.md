@@ -1,4 +1,4 @@
-# StyleGuide
+# Style Guide
 Provide general code style guidance.
 --
 
