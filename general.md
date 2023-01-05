@@ -20,7 +20,8 @@ and files).
 when making changes.  Changing styles in the middle of a logical piece of code
 creates distraction that causes extra cognitive effort to sort through.
 
---
+---
+
 The following are some general ideas of good code style based on what I consider
 to be important for the readability and understandability of code.  These ideas
 are generally considered controversial, so I give the reasons for why I consider
